@@ -1,0 +1,1 @@
+SELECT * from rzzl_customer_repayment_schedule
